@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Abhishek Agre
 
-<!--
-**Abhishekagre414/Abhishekagre414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student
 
-Here are some ideas to get you started:
+🚀 Currently Building
+- AI-Driven Phishing Detection System
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning
+- Ethical Hacking
+- AWS Cloud Security
+- Python
+- Machine Learning
+
+🛠 Skills
+- Python
+- Linux
+- Git & GitHub
+- Networking
+- AWS
+- Cybersecurity
+
+🎯 Career Goals
+- Cybersecurity Internship
+- Security Engineer
+- Bug Bounty Hunter
+
+📫 Connect With Me
+- LinkedIn:https://www.linkedin.com/in/abhishek-agre-79206831b/
